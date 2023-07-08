@@ -29,3 +29,11 @@ console.log(BMIJohn);
 let markHigherBMI = BMIMark > BMIJohn ;
 
 console.log(markHigherBMI);
+
+console.log(`this is 
+my first template literal
+abhinav`) ;
+
+let webNumber = prompt('Please enter a number');
+console.log(webNumber);
+
