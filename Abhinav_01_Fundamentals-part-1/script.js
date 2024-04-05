@@ -14,7 +14,6 @@ console.log(typeof(continent));
 console.log(typeof(population));
 console.log(typeof(language));
 
-
 let massMark = 78;
 let heightMark = 1.69;
 let massJohn = 92 , heightJohn = 1.95 ;
